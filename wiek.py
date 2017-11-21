@@ -1,6 +1,6 @@
 name = input("Podaj swoje imię: ") #komentarz 
 print ( "Witaj", name)
-year = int(input("Podaj swój rok urodzenia: "))
+year = int(input("Podaj swój rok urodzenia: ")) #int(input()) - podanie wartości całkowitej
 #nazwa zmiennej nie może zaczynać się od cyfry
 #
 import datetime
