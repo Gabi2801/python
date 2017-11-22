@@ -9,4 +9,4 @@ if sum > 18-25:
 if sum > 26:
     print("Masz nadwagę")
 
-input("\n\nAby zakończyć program, naciśnij klawisz \"Enter\".") #\" lub ' cudzysłów aby Python nie traktował jako końca łancucha
+input("\n\nAby zakończyć program, naciśnij klawisz \"Enter\".")
