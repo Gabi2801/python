@@ -6,7 +6,13 @@ dzialanie = input('Wybierz typ działania które chcesz przeprowadzić\n + dodaw
 if dzialanie == '+':
     a = int(input('Podaj pierwszy składnik: '))
     b = int(input('Podaj drugi składnik: '))
-    suma = a + b
-    print(suma)
+    suma_plus = a + b
+    print(suma_plus)
+
+if dzialanie == '-':
+    a = int(input('Podaj pierwszy składnik: '))
+    b = int(input('Podaj drugi składnik: '))
+    suma_minus = a - b
+    print(suma_minus)
 
 input('\nAby zakończyć naciśnij Enter')
